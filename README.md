@@ -76,7 +76,7 @@ End‑to‑end event solution for large‑scale programs.
 * Jenkins, Metabase
 * Self‑hosted & cloud infrastructure
 
----
+
 
 ## 🎓 Education
 
