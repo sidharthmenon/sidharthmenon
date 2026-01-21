@@ -4,7 +4,6 @@ Software Engineer | Full‑Stack Developer | Laravel • Livewire • React Nati
 
 > “I enjoy building systems that scale quietly, work reliably, and make people’s jobs easier.”
 
----
 
 ## 👨‍💻 About Me
 
@@ -12,7 +11,7 @@ I’m a full‑stack software engineer currently leading large‑scale digital t
 
 I enjoy taking products **from idea to production**, owning the full lifecycle—from architecture and development to deployment and infrastructure.
 
----
+
 
 ## 🏗️ What I Work On
 
@@ -21,7 +20,7 @@ I enjoy taking products **from idea to production**, owning the full lifecycle�
 * Creating **developer‑friendly admin systems** with clean UX
 * Deploying **self‑hosted alternatives** to SaaS tools to reduce cost and dependency
 
----
+
 
 ## 🚀 Key Projects
 
@@ -53,7 +52,7 @@ End‑to‑end event solution for large‑scale programs.
 * G‑Suite add‑ons (Mail Merge, Certificate Generator)
 * Figma Plugins for improving internal workflows
 
----
+
 
 ## 🧰 Tech Stack
 
