@@ -84,4 +84,3 @@ End‑to‑end event solution for large‑scale programs.
 * **B.Tech – Instrumentation & Control Engineering**
   MG University, Kerala
 
----
