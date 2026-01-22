@@ -17,7 +17,7 @@ I enjoy taking products **from idea to production**, owning the full lifecycle�
 
 * Designing and building **high‑traffic government platforms**
 * Building **event & ecosystem platforms** with web + mobile integrations
-* Creating **developer‑friendly admin systems** with clean UX
+* Creating **user‑friendly admin systems** with clean UX
 * Deploying **self‑hosted alternatives** to SaaS tools to reduce cost and dependency
 
 
