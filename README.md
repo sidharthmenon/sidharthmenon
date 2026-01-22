@@ -43,7 +43,7 @@ End‑to‑end event solution for large‑scale programs.
 
 ### 🔹 Kerala Startup Mission Website
 
-* Ground‑up rebuild with a cms containing **custom drag‑and‑drop page & form builder**
+* Ground‑up rebuild with a cms integrating **custom drag‑and‑drop page & form builder**
 * Built using Laravel & Livewire for non‑technical content managers
 * Awarded **Kerala e‑Governance Award – Best Website (2019‑20, 2020‑21)**
 
